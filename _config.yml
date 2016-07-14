@@ -1,7 +1,7 @@
 name: pipshots
 favicon: null
 layout_spectrum: 0.819386457791552
-typography_spectrum: 0.5803651891183108
+typography_spectrum: 0.22905
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.9861027747392654
+  brandStrength: 0.5
   lightness: 0.5290185606572777
   saturation: 0.26673941244371235
   rhythmicContrast: 0.4477588729932904
